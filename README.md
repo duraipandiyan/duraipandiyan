@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on AI & Machine Learning projects using Python<br><br>🤝 I’m looking to collaborate on data-driven and web development projects<br><br>💡 I’m looking for help with model optimization and deployment (ML to production)<br><br>🌱 I’m currently learning Deep Learning & Natural Language Processing<br><br>💬 Ask me about Python, Django, APIs, or Machine Learning algorithms<br><br>⚡ Fun fact: I love turning raw data into meaningful insights!
+🧑‍💻 I’m currently working on AI & Machine Learning projects using Python<br><br>🤝 I’m looking to collaborate on AI, Data Science, and Predictive Modeling projects<br><br>💡I’m looking for help with model deployment and real-world AI applications<br><br>🌱 I’m currently learning Deep Learning & Natural Language Processing<br><br>💬 Ask me about Python, Django, APIs, or Machine Learning algorithms<br><br>⚡ Fun fact: I love turning raw data into meaningful insights!
 
 
 ## 🌐 Socials:
